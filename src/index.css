@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: "Inter Tight", sans-serif;
+  font-family: 'Inter Tight', sans-serif;
 }
 
 li {
@@ -37,15 +37,15 @@ button {
 }
 
 .button-reset {
-  border-color: green;
-  color: green;
+  border-color: red;
+  color: red;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin-top: 12px;
 }
 
 .button-reset:hover {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  background-color: green;
+  background-color: red;
   color: white;
 }
 
